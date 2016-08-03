@@ -1,4 +1,4 @@
-# Laravel Elixir Swagger v0.0.1
+# Laravel Elixir Swagger v0.0.2
 
 A Laravel Elixir extension that parses Swagger specs in JSON or YAML format, validates against the official Swagger 2.0 schema and dereferences all $ref pointers to external files.
 
