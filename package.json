@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-swagger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "http://github.com/adrian-fjellberg/laravel-elixir-swagger",
   "description": "A Laravel Elixir extension that parses Swagger specs in JSON or YAML format, validates against the official Swagger 2.0 schema and dereferences all $ref pointers to external files.",
   "main": "./index.js",
