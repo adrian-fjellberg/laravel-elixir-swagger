@@ -1,0 +1,32 @@
+{
+  "name": "laravel-elixir-swagger",
+  "version": "0.0.1",
+  "homepage": "http://github.com/adrian-fjellberg/laravel-elixir-swagger",
+  "description": "A Laravel Elixir extension that parses Swagger specs in JSON or YAML format, validates against the official Swagger 2.0 schema and dereferences all $ref pointers to external files.",
+  "main": "./index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0",
+    "gulp-swagger": "adrian-fjellberg/gulp-swagger"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adrian-fjellberg/laravel-elixir-swagger.git"
+  },
+  "keywords": [
+    "gulp",
+    "plugin",
+    "gulpplugin",
+    "swagger",
+    "laravel",
+    "elixir"
+  ],
+  "author": "Adrian Fjellberg <adrian@fjellberg.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/adrian-fjellberg/laravel-elixir-swagger/issues"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
